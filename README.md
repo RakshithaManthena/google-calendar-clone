@@ -1,7 +1,5 @@
 # **Google Calendar Clone**
 
-<img src="/gcclone.png" alt="project-image" />
-
 A full-featured Google Calendar clone built using **Next.js**, **React**, **Day.js**, **Neon Postgres**, and **Drizzle ORM**.  
 This project demonstrates building a complete calendar system with event creation, date management, recurring logic, and backend integration.
 
